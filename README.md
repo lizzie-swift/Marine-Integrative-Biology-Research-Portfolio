@@ -1,6 +1,8 @@
 # OIST Research Portfolio
 
-## About Me
+🧬 Genomics | 🧠 Neuroscience | 🌊 Marine Biology | 💡 Bioluminescence | 💻 Computational Biology
+
+## 👩‍🔬 About Me
 I am a Genetics graduate and NHS Genomics Technologist with interests in genomics, neuroscience, marine biology, bioinformatics and computational biology.
  
 My long-term goal is to investigate how genomes and gene regulatory systems generate complex biological traits and behaviours, particularly in marine organisms.
@@ -13,15 +15,15 @@ This portfolio explores how genome evolution, gene regulation and biological net
 
 Areas of interest include:
 
-- Gene regulation
-- Functional genomics
-- Population genomics
-- Evolutionary biology
-- Marine biology
-- Computational biology
-- Bioinformatics
-- Neuroscience
-- Bioluminescence
+- 🧬 Gene regulation
+- 🔬 Functional genomics
+- 🌍 Population genomics
+- 🦕 Evolutionary biology
+- 🌊 Marine biology
+- 💻 Computational biology
+- 📊 Bioinformatics
+- 🧠 Neuroscience
+- 💡 Bioluminescence
   
 ## Current Research Questions
 ### Oikopleura dioica
@@ -38,32 +40,32 @@ How do marine organisms adapt genetically to environmental changes such as tempe
  
 ## Planned Projects
 
-### Project 1
+### 🐟 Project 1
 Oikopleura dioica and Genome Evolution
 
-### Project 2
+### 💡 Project 2
 Evolution of Marine Bioluminescence
 
-### Project 3
+### 🌍 Project 3
 Population Genomics in Marine Organisms
 
-### Project 4
+### 🧠 Project 4
 Neural Regulation of Complex Traits
 
-### Project 5
+### 💻 Project 5
 Python for Genomics and Bioinformatics
 
 ## Technical Skills
 
 Currently learning:
-- Python
-- Pandas
-- NumPy
-- GitHub
-- Linux
-- Data Visualisation
-- RNA-seq Analysis
-- Bioinformatics Workflows
+- 🐍 Python
+- 📊 Pandas
+- 🔢 NumPy
+-🐧 Linux
+- 🌐 Git & GitHub
+- 📈 Data Visualisation
+- 🧬 RNA-seq Analysis
+- 🔬 Bioinformatics Workflows
  
 ## Future Goals
 - Build a computational genomics portfolio
