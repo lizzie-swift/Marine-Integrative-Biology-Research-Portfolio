@@ -5,7 +5,6 @@ How has bioluminescence evolved across marine organisms, and what genetic and re
 
 🌊 Motivation
 Bioluminescence is one of the most widespread and remarkable traits in the marine environment. Light-producing systems have evolved independently across multiple lineages including fish, squid, jellyfish, crustaceans and plankton. The repeated evolution of bioluminescence presents an opportunity to investigate how genomes, gene regulatory networks and environmental pressures generate complex biological traits.
-
 This project explores marine bioluminescence through literature review, bioinformatics and computational analysis.
 
 🧬 Areas of Investigation
@@ -57,11 +56,11 @@ Public sequence database exploration
 Gene family comparisons
 Python data visualisation
 Scientific figure generation
+
 🔗 Connection to Other Projects
 This project forms part of a broader research portfolio exploring how gene regulatory systems generate complex biological traits and behaviours in marine organisms.
 
 Related projects include:
-
 🐟 Oikopleura dioica and Genome Evolution
 🌍 Population Genomics in Marine Organisms
 🧠 Neural Regulation of Complex Traits
