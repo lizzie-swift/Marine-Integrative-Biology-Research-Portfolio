@@ -6,7 +6,7 @@
 
 I hold a degree in Genetics and currently work within an NHS Genomics Hub in the UK. I have a growing interest in bioinformatics, computational biology, and scientific programming. I am currently developing skills in Python, data analysis, and genomics research while building a portfolio of independent projects inspired by research areas at the Okinawa Institute of Science and Technology (OIST).
 My interests span genomics, marine biology, neuroscience, and evolutionary biology, with a particular fascination for bioluminescence and the genetic mechanisms that underlie complex biological traits. Through this portfolio, I explore how computational approaches can be used to investigate questions ranging from genome evolution and population genetics to neural regulation, bioluminescent systems, and marine biodiversity.
-My long-term goal is to contribute to interdisciplinary research that combines genomics, bioinformatics, neuroscience, and marine biology to better understand the molecular basis of complex biological processes
+My long-term goal is to contribute to interdisciplinary research that combines genomics, bioinformatics, neuroscience, and marine biology to better understand the molecular basis of complex biological processes.
 
 
 ## Research Theme
