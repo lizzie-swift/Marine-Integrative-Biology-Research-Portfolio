@@ -46,8 +46,13 @@ This project forms part of a broader research portfolio exploring how genomes an
 Related projects include:
 
 💡 Evolution of Marine Bioluminescence
+
 🌍 Population Genomics in Marine Organisms
+
 🧠 Neural Regulation of Complex Traits
+
 💻 Python for Genomics and Bioinformatics
+
 🎯 Long-Term Goal
+
 To understand how genome evolution and gene regulatory systems influence development, adaptation and complex traits in marine organisms.
