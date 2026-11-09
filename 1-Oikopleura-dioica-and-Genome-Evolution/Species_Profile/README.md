@@ -1,22 +1,29 @@
+# Species Profile: Oikopleura dioica
 
-Species Profile: Oikopleura dioica
-Taxonomy
+## Taxonomy
 
 - Kingdom: Animalia
 - Phylum: Chordata
 - Class: Appendicularia (Larvacea)
 - Species: Oikopleura dioica
-Overview
+
+## Overview
+
 Oikopleura dioica is a small planktonic marine chordate belonging to the larvaceans. Unlike most tunicates, O. dioica retains chordate characteristics such as a notochord and tail throughout its life cycle.
-Life Cycle
+
+## Life Cycle
 
 - Rapid development
 - Short generation time
 - External fertilisation
 - Transparent body plan
-Ecology
+
+## Ecology
+
 O. dioica is an important component of marine food webs and contributes to carbon cycling through the production of mucus filtering structures known as houses.
-Why It Is Important
+
+## Why It Is Important
+
 O. dioica has become an important model organism for studying:
 
 - Genome evolution
@@ -24,14 +31,16 @@ O. dioica has become an important model organism for studying:
 - Gene regulation
 - Chordate evolution
 - Population genomics
-Key Features
+
+## Key Features
 
 - Extremely compact genome
 - Rapid evolutionary change
 - Conserved chordate body plan
 - Global marine distribution
 - Emerging model for comparative genomics
-Questions of Interest
+
+## Questions of Interest
 
 - Why has the genome become so compact?
 - How are developmental processes maintained despite extensive genomic change?
