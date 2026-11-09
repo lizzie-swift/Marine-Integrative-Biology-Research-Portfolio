@@ -1,10 +1,13 @@
  Research Question
+ 
 How can geographically distinct populations maintain similar morphology despite extensive genomic divergence?
 
 🌊 Background
+
 Oikopleura dioica is a marine larvacean and one of the most unusual chordates currently studied in genomics. Despite possessing one of the smallest known chordate genomes, O. dioica maintains complex developmental processes and chordate characteristics including a notochord and tail. Recent research has shown that geographically separated populations can exhibit substantial genomic divergence while maintaining similar morphology, suggesting cryptic speciation and unusual mechanisms of gene regulation.
 
 🧬 Why This Matters
+
 Understanding how different genomes produce similar phenotypes is a fundamental question in biology. This research has implications for:
 
 Gene regulation
