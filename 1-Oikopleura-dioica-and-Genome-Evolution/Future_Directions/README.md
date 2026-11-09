@@ -1,15 +1,25 @@
+# Future Directions
 
-Future Directions
+## Genome Evolution
 
-Genome Evolution
 Investigate mechanisms driving rapid genome evolution in Oikopleura dioica.
-Gene Regulation
+
+## Gene Regulation
+
 Explore how developmental pathways remain conserved despite extensive genomic divergence.
-Population Genomics
+
+## Population Genomics
+
 Compare geographically distinct populations to identify signatures of adaptation and cryptic speciation.
-Neuroscience Connections
+
+## Neuroscience Connections
+
 Investigate whether neural regulatory pathways remain conserved across divergent populations.
-Bioluminescence Connections
+
+## Bioluminescence Connections
+
 Explore potential links between genome evolution, sensory systems and bioluminescent signalling in marine organisms.
-Comparative Genomics
+
+## Comparative Genomics
+
 Integrate findings with broader comparative analyses performed within the Comparative Genomics and Bioinformatics Pipeline repository.
