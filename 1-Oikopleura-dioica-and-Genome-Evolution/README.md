@@ -15,7 +15,10 @@ Evolutionary biology
 Developmental biology
 Population genomics
 Adaptation to environmental change
+
+
 ❓ Key Research Questions
+
 Genome Evolution
 How rapidly do Oikopleura genomes evolve compared to other chordates?
 
@@ -49,25 +52,44 @@ Functional Genomics
 Gene expression
 Regulatory networks
 Epigenetics
+
+
 💻 Planned Computational Work
+
 Scientific literature review
+
 Population genomics summaries
+
 Comparative genome analysis
+
 Evolutionary tree visualisation
+
 Python data visualisation
+
 Public genomics database exploration
+
+
+
 📝 Research Notes
+
 Key Findings
 This section will be updated as papers are reviewed.
 
 🔗 Connection to Other Projects
+
 This project forms part of a broader research portfolio exploring how genomes and gene regulatory systems generate complex traits and behaviours in marine organisms.
 
 Related projects include:
 
 💡 Evolution of Marine Bioluminescence
+
 🌍 Population Genomics in Marine Organisms
+
 🧠 Neural Regulation of Complex Traits
+
 💻 Python for Genomics and Bioinformatics
+
+
 🎯 Long-Term Goal
+
 To understand how genome evolution and gene regulatory systems influence development, adaptation and complex traits in marine organisms.
