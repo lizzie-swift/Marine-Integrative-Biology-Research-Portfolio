@@ -10,7 +10,6 @@ My long-term goal is to contribute to interdisciplinary research that combines g
 
  
 ## Research Theme
- 
 ### How do genomes create complex phenotypes? 
 
 This portfolio explores how genome evolution, gene regulation and biological networks contribute to the emergence of complex traits across marine organisms.
