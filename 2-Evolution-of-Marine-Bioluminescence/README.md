@@ -1,3 +1,9 @@
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/53b5aff4-e36c-4f45-8f9e-94e28a187f18" />
+
+
+
+
 💡 Project 2 Evolution of Marine Bioluminescence 
 
 🔬 Research Question How has bioluminescence evolved across marine organisms, and what genetic and regulatory mechanisms control light production?
