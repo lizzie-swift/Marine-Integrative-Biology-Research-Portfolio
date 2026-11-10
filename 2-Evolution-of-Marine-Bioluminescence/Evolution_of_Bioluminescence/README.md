@@ -1,22 +1,3 @@
-Introduction
-
-Bioluminescence has evolved independently numerous times across diverse marine taxa, from bacteria to fish. This trait plays a significant role in marine ecosystems, where it is used for a variety of physiological and behavioural functions, including defence, predator avoidance, prey attraction, communication, and reproduction (Haddock, Moline and Case, 2010).
-
-
-Research Question
-
-Background
-
-Key Findings
-
-Independent Origins
-
-Convergent Evolution
-
-Evolutionary Trees
-
-Relevance to Genomics
-
-Relevance to Neuroscience
-
-Future Research Questions
+<img width="3726" height="2268" alt="image" src="https://github.com/user-attachments/assets/efae7012-9700-4baa-9400-5da3dfd3df52" />
+<img width="4032" height="1928" alt="image" src="https://github.com/user-attachments/assets/3771a23e-da88-4ef0-a291-64b8437b0396" />
+<img width="1156" height="2268" alt="image" src="https://github.com/user-attachments/assets/839b1491-6754-483e-b933-81d4d0cf999b" />
