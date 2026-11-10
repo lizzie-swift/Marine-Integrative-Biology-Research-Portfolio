@@ -1,4 +1,4 @@
-# OIST Research Portfolio
+# Marine Integrative Biology Research Portfolio
 
 🧬 Genomics | 🧠 Neuroscience | 🌊 Marine Biology | 💡 Bioluminescence | 💻 Computational Biology
 
