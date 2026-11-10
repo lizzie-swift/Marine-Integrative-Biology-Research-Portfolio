@@ -3,8 +3,7 @@ Abstract
 Brief summary of the review.
 
 Introduction
-
-Bioluminescence has evolved independently across numerous marine organisms, ranging from bacteria to fish. Marine species use bioluminescence for a variety of functions, including defence, predation, communication, and reproduction. Research into natural light-producing systems has also led to important applications in scientific research and medicine (Haddock et al., 2010).
+Bioluminescence is the production and emission of visible light by living organisms through specialised biochemical reactions involving molecules known as luciferins and enzymes called luciferases. The evolution of these systems is ultimately driven by genetic variation, genome evolution and changes in gene regulatory networks that control when and where light is produced. This phenomenon occurs across a diverse range of taxa and environments but is particularly widespread in marine ecosystems, where it serves functions including defence, communication, predation and camouflage (Schramm & Weiß, 2024; Haddock et al., 2010). 
 
 Why is it important in marine environments?
 
