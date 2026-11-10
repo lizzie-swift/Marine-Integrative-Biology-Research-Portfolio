@@ -1,10 +1,13 @@
 Abstract
+
 Brief summary of the review.
 
 Research Aim
+
 This review examines the evolutionary history of marine bioluminescence, with a particular focus on the evolutionary, genomic and regulatory mechanisms that have enabled light-producing systems to emerge repeatedly across diverse marine lineages.
 
 Introduction
+
 Bioluminescence is the production and emission of visible light by living organisms through specialised biochemical reactions involving molecules known as luciferins and enzymes called luciferases (Schramm & Weiß, 2024).
 
 The widespread occurrence of bioluminescence across diverse marine taxa suggests that light-producing systems have evolved repeatedly throughout evolutionary history. Understanding how these systems arose provides an opportunity to investigate the roles of genome evolution, genetic innovation and gene regulation in the emergence of complex biological traits.
