@@ -4,10 +4,7 @@ Brief summary of the review.
 
 Introduction
 
-
-What is bioluminescence?
-
-How does it work?
+Bioluminescence has evolved independently across numerous marine organisms, ranging from bacteria to fish. Marine species use bioluminescence for a variety of functions, including defence, predation, communication, and reproduction. Research into natural light-producing systems has also led to important applications in scientific research and medicine (Haddock et al., 2010).
 
 Why is it important in marine environments?
 
