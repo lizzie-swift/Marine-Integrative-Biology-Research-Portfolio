@@ -4,6 +4,9 @@ Banner image generated using Microsoft Copilot AI (2026).
 
 
 
+
+
+
 💡 Project 2 Evolution of Marine Bioluminescence 
 
 🔬 Research Question How has bioluminescence evolved across marine organisms, and what genetic and regulatory mechanisms control light production?
