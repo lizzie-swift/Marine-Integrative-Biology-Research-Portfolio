@@ -75,7 +75,7 @@ Major themes from the literature
 
 Current debates
 
-<img width="3892" height="2268" alt="image" src="https://github.com/user-attachments/assets/1addedd8-6086-4043-bcaa-f72aec75f028" />
+Conclusion
 
 
 References
