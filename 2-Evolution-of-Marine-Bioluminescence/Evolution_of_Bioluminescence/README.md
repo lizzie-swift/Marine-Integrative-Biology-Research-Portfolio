@@ -22,7 +22,7 @@ Within marine environments, bioluminescence is found across a remarkable diversi
 Marine organisms use bioluminescence for a range of ecological functions, including defence against predators, prey attraction, communication, camouflage and reproduction. The production of light plays a central role in marine ecosystems, influencing interactions between organisms throughout the water column. Because bioluminescence has evolved across numerous unrelated taxa and occurs in organisms ranging from bacteria to fish, it has become an important model for studying adaptation, convergent evolution and ecosystem dynamics in the ocean (Haddock et al., 2010).
 Although bioluminescence occurs in both terrestrial and marine environments, marine organisms account for the majority of known bioluminescent diversity. This extensive taxonomic distribution makes marine bioluminescence a valuable system for examining the evolutionary processes, genetic innovations and regulatory mechanisms underlying the repeated emergence of complex biological traits (Haddock et al., 2010).
 
-<img width="4032" height="1239" alt="image" src="https://github.com/user-attachments/assets/1b4d4a93-3b46-4e3d-ac8d-1edf1a613c83" />
+Evolutionary Origins
 
 Distribution across the tree of life
 
