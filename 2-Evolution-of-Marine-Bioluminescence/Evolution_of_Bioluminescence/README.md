@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/72b61ab6-d81b-41f7-a27a-5f8cc2d291f5" />
+Banner image generated using Microsoft Copilot AI (2026) and used for illustrative purposes only.
+
 Abstract
 
 Brief summary of the review.
@@ -15,6 +18,8 @@ The widespread occurrence of bioluminescence across diverse marine taxa suggests
 Within marine environments, bioluminescence is found across a remarkable diversity of taxa, spanning organisms from bacteria and planktonic protists to cnidarians, crustaceans, cephalopods, and chordates, highlighting the widespread distribution of light-producing systems throughout the marine tree of life (Haddock et al., 2010).
 
 Marine organisms use bioluminescence for a range of ecological functions, including defence against predators, prey attraction, communication, camouflage and reproduction. The production of light plays a central role in marine ecosystems, influencing interactions between organisms throughout the water column. Because bioluminescence has evolved across numerous unrelated taxa and occurs in organisms ranging from bacteria to fish, it has become an important model for studying adaptation, convergent evolution and ecosystem dynamics in the ocean (Haddock et al., 2010).
+
+Although bioluminescence occurs in both terrestrial and marine environments, marine organisms account for the majority of known bioluminescent diversity. This extensive taxonomic distribution makes marine bioluminescence a valuable system for examining the evolutionary processes, genetic innovations and regulatory mechanisms underlying the repeated emergence of complex biological traits (Haddock et al., 2010).
 
 
 
