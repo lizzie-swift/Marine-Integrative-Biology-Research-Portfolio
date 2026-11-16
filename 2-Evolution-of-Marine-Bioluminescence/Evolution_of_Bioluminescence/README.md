@@ -34,7 +34,7 @@ Figure 1
 Distribution of bioluminescence across major marine lineages
 
 <img width="4032" height="701" alt="image" src="https://github.com/user-attachments/assets/8c42d9bc-f810-4287-ba2d-d36bc393dc54" />
-Figure 1. Representative bioluminescent organisms across major marine lineages. The occurrence of bioluminescence in bacteria, dinoflagellates, cnidarians, crustaceans, cephalopods and chordates demonstrates the broad phylogenetic distribution of light-producing systems throughout the marine tree of life. Light bulb symbols indicate lineages containing documented bioluminescent taxa. Adapted from the synthesis of marine bioluminescence literature including Haddock et al. (2010).
+Figure 1. Representative bioluminescent organisms across major marine lineages. The occurrence of bioluminescence in bacteria, dinoflagellates, cnidarians, crustaceans, cephalopods and chordates demonstrates the broad phylogenetic distribution of light-producing systems throughout the marine tree of life. Light bulb symbols indicate lineages containing documented bioluminescent taxa.Figure created by the author based on information synthesised from Haddock et al. (2010).
 
 Earliest evidence of bioluminescence
 
