@@ -1,11 +1,8 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a9e84a5d-3193-49a2-95ea-1dfff8807674" />
 Banner image generated using Microsoft Copilot AI (2026) and used for illustrative purposes only.
 
-<img src="images/abstract.png" width="400">
-<img src="images/introduction.png" width="400">
-<img src="images/evolutionary_origins.png" width="400">
 
-<img width="3012" height="2268" alt="image" src="https://github.com/user-attachments/assets/53626919-7ca0-42ae-9c0e-7dfcb9f7a062" />
+Abstract
 
 Brief summary of the review.
 
@@ -13,7 +10,7 @@ Research Aim
 
 This review examines the evolutionary history of marine bioluminescence, with a particular focus on the evolutionary, genomic and regulatory mechanisms that have enabled light-producing systems to emerge repeatedly across diverse marine lineages.
 
-<img width="4032" height="2078" alt="image" src="https://github.com/user-attachments/assets/ff9a827f-e1d4-4639-b10f-d941ab176360" />
+Introduction
 
 
 Bioluminescence is the production and emission of visible light by living organisms through specialised biochemical reactions involving molecules known as luciferins and enzymes called luciferases (Schramm & Weiß, 2024).
