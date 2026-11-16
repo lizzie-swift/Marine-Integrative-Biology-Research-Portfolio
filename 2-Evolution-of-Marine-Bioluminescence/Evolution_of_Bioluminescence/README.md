@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8c304942-e1d9-4ab1-bc07-baacd864368a" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/967c2d27-41bc-4cfd-bc6f-6cad90e0de17" />
 Banner image generated using Microsoft Copilot AI (2026) and used for illustrative purposes only.
 
 
