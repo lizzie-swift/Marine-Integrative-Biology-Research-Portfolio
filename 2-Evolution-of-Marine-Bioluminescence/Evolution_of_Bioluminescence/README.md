@@ -1,6 +1,10 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a9e84a5d-3193-49a2-95ea-1dfff8807674" />
 Banner image generated using Microsoft Copilot AI (2026) and used for illustrative purposes only.
 
+<img src="images/abstract.png" width="400">
+<img src="images/introduction.png" width="400">
+<img src="images/evolutionary_origins.png" width="400">
+
 <img width="3012" height="2268" alt="image" src="https://github.com/user-attachments/assets/53626919-7ca0-42ae-9c0e-7dfcb9f7a062" />
 
 Brief summary of the review.
