@@ -44,3 +44,6 @@ OIST Publications
 Datasets
 
 Visual Assets
+
+
+Delroisse, J., Duchatelet, L., Flammang, P. and Mallefet, J. (2021) 'Leaving the Dark Side? Insights Into the Evolution of Luciferases', Frontiers in Marine Science, 8, 673620. Available at: https://doi.org/10.3389/fmars.2021.673620 (Accessed: 17 November 2026).
