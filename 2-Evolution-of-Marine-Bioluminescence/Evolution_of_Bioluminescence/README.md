@@ -38,12 +38,11 @@ Distribution of bioluminescence across major marine lineages
 <img width="4032" height="701" alt="image" src="https://github.com/user-attachments/assets/8c42d9bc-f810-4287-ba2d-d36bc393dc54" />
 Figure 1. Representative bioluminescent organisms across major marine lineages. The occurrence of bioluminescence in bacteria, dinoflagellates, cnidarians, crustaceans, cephalopods and chordates demonstrates the broad phylogenetic distribution of light-producing systems throughout the marine tree of life. Light bulb symbols indicate lineages containing documented bioluminescent taxa. Figure created by the author based on information synthesised from Haddock et al. (2010).](https://github.com/lizzie-swift/Marine-Integrative-Biology-Research-Portfolio/tree/main/2-Evolution-of-Marine-Bioluminescence/Evolution_of_Bioluminescence)
 
-Earliest evidence of bioluminescence
-
 Marine versus terrestrial bioluminescence
 
 Although bioluminescence occurs in both marine and terrestrial organisms, the oceans contain the vast majority of documented bioluminescent taxa, accounting for approximately 80% of known luminous species. Terrestrial bioluminescence is comparatively rare and is restricted to a limited number of groups, including fungi, annelids and arthropods. The predominance of bioluminescence in marine environments may be linked to historical changes in ocean chemistry, particularly increases in oxygen availability. It has been suggested that early bioluminescent systems evolved as a physiological response to oxidative stress before subsequently being adapted for ecological functions such as defence, prey attraction, communication and camouflage. (Duchatelet and Dupont, 2024)
 
+Earliest evidence of bioluminescence
 
 
 Independent Origins
